@@ -13,7 +13,7 @@
       "id": 1,
       "name": "Porkchop",
       "specialty": "Making friends",
-      "greased": true,
+      "greased": false,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 1.6,
       "highest medal achieved": "silver",
       "image": "./hog-imgs/porkchop.jpg"
@@ -49,19 +49,10 @@
       "id": 5,
       "name": "Sobriety",
       "specialty": "Expert Witness",
-      "greased": false,
+      "greased": true,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 2.2,
       "highest medal achieved": "silver",
       "image": "./hog-imgs/sobriety.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Rainbowdash",
-      "specialty": "Union Busting",
-      "greased": false,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 3.7,
-      "highest medal achieved": "wood",
-      "image": "./hog-imgs/rainbowdash.jpg"
     },
     {
       "id": 7,
@@ -109,13 +100,12 @@
       "image": "./hog-imgs/leggo_my_eggo.jpg"
     },
     {
-      "id": 12,
-      "name": "Augustus Gloop",
-      "specialty": "Vacuum tubes",
-      "greased": true,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
-      "highest medal achieved": "wood",
-      "image": "./hog-imgs/augustus_gloop.jpg"
+      "name": "toast",
+      "specialty": "magics",
+      "highest medal achieved": "gold",
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 1,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.oh46CH8b3BU80OCP0yN4DwHaE8&w=167&h=110&c=8&rs=1&qlt=90&dpr=2&pid=3.1&rm=2",
+      "id": 12
     }
   ]
 }
