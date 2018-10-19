@@ -1,0 +1,17 @@
+#new-hog {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+#edit-hog {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+#hog-container {
+    justify-content: center
+}
